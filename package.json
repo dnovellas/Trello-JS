@@ -1,0 +1,26 @@
+{
+  "name": "trello-js",
+  "version": "1.0.0",
+  "description": "Trello API Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnovellas/Trello-JS.git"
+  },
+  "keywords": [
+    "trello"
+  ],
+  "author": "David Novella S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnovellas/Trello-JS/issues"
+  },
+  "homepage": "https://github.com/dnovellas/Trello-JS#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "trello": "^0.11.0"
+  }
+}
